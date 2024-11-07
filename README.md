@@ -8,6 +8,8 @@
 
 - jupyterlab [lsp](https://github.com/krassowski/jupyterlab-lsp) extension
 
+- jupyterlab [codeium](https://github.com/jtpio/jupyterlab-codeium) extension
+
 ### Features enabled
 
 - Text Editor codefolding (Settings -> Text Editor -> Code Folding)
