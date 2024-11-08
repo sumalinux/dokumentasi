@@ -15,6 +15,9 @@
 - Text Editor codefolding (Settings -> Text Editor -> Code Folding)
 - Notebook codefolding (Settings -> Notebook -> Code Folding)
 
+#### Keyboard [shortcuts](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/navigation-hotkeys/readme.html)
+
+
 
 #### Miscelanous
 
