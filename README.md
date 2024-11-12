@@ -6,9 +6,11 @@
 
 - [git](https://blog.reviewnb.com/jupyterlab-git-extension/) extension
 
-- [jupySQL](https://jupysql.ploomber.io/en/latest/quick-start.html)
+- [jupySQL](https://jupysql.ploomber.io/en/latest/quick-start.html) extension
 
 - [lsp](https://github.com/krassowski/jupyterlab-lsp) extension
+
+- [pyWidgets](https://ipywidgets.readthedocs.io/en/latest) extension
 
 ### Features enabled
 
