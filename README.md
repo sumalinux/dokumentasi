@@ -4,11 +4,11 @@
 
 ### Extensions enabled
 
-- jupyterlab [git](https://blog.reviewnb.com/jupyterlab-git-extension/) extension
+- [git](https://blog.reviewnb.com/jupyterlab-git-extension/) extension
 
-- jupyterlab [lsp](https://github.com/krassowski/jupyterlab-lsp) extension
+- [jupySQL](https://jupysql.ploomber.io/en/latest/quick-start.html)
 
-- jupyterlab [codeium](https://github.com/jtpio/jupyterlab-codeium) extension
+- [lsp](https://github.com/krassowski/jupyterlab-lsp) extension
 
 ### Features enabled
 
