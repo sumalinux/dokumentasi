@@ -26,52 +26,48 @@
 - check which extensions are activated
 
 ```
-/venv/bin/jupyter labextension list
-JupyterLab v4.3.0
+jupyter:/# /venv/bin/jupyter labextension list
+JupyterLab v4.2.5
 /venv/share/jupyter/labextensions
-        jupyterlab-codeium v0.1.1 enabled OK (python, jupyterlab_codeium)
-        jupyterlab-plugin-graph v0.2.1 enabled  X (python, jupyterlab-plugin-graph)
-        kernel_killer v0.1.2 enabled OK (python, kernel_killer)
+        jupyterlab-ipyflow v0.0.204 enabled  X
+        jupyterlab-cell-flash v0.4.0 enabled OK (python, jupyterlab-cell-flash)
         jupyterlab_templates v0.5.2 enabled OK (python, jupyterlab_templates)
+        jupyterlabcodetoc v4.0.1 enabled OK (python, jupyterlabcodetoc)
         nbdime-jupyterlab v3.0.2 enabled OK
-        jupyterlab-new-launcher v0.5.1 enabled OK (python, jupyterlab_new_launcher)
-        jupyterlab-plotly v5.24.1 enabled  X
         iturtle v0.1.0 enabled  X (python, iturtle)
         jupyterlab_pygments v0.3.0 enabled OK (python, jupyterlab_pygments)
-        attention-grabber v0.1.2 enabled OK (python, attention_grabber)
-        jupyter-offlinenotebook v0.3.1 enabled  X
+        jupyterlab-theme-solarized-dark v3.0.1 enabled OK (python, jupyterlab_theme_solarized_dark)
+        jupyterlab-search-replace v1.1.0 enabled  X (python, jupyterlab-search-replace)
+        jupyterlab-execute-time v3.2.0 enabled OK (python, jupyterlab_execute_time)
+        jupysql-plugin v0.4.5 enabled  X (python, jupysql-plugin)
+        ipytone v0.5.1 enabled OK (python, ipytone)
         spreadsheet-editor v0.7.2 enabled OK (python, jupyterlab-spreadsheet-editor)
-        jupyter-leaflet v0.19.2 enabled OK
+        jupyterlab-tour v4.0.1 enabled OK (python, jupyterlab-tour)
+        kernel_killer v0.1.2 enabled OK (python, kernel_killer)
+        anywidget v0.9.13 enabled OK
+        jupyterlab_autosave_on_focus_change v0.4.1 enabled OK (python, jupyterlab_autosave_on_focus_change)
         @jupyterlab/git v0.50.2 enabled OK (python, jupyterlab-git)
-        @voila-dashboards/jupyterlab-preview v2.3.8 enabled OK (python, voila)
+        @jupyter-lsp/jupyterlab-lsp v5.1.0 enabled OK (python, jupyterlab-lsp)
+        @jupyter-notebook/lab-extension v7.2.2 enabled OK
         @jupyter-widgets/jupyterlab-manager v5.0.13 enabled OK (python, jupyterlab_widgets)
         @jupyter-server/resource-usage v1.1.0 enabled OK (python, jupyter-resource-usage)
         @ouyangde1/jupyterlab-spreadsheet v0.4.2 enabled OK
+        @widgetti/jupyter-react v0.4.2 enabled OK (python, ipyreact)
 
 
    The following extensions may be outdated or specify dependencies that are incompatible with the current version of jupyterlab:
-        jupyterlab-plugin-graph
-        jupyterlab-plotly
+        jupyterlab-ipyflow
         iturtle
-        jupyter-offlinenotebook
+        jupyterlab-search-replace
+        jupysql-plugin
 
    If you are a user, check if an update is available for these packages.
    If you are a developer, re-run with `--verbose` flag for more details.
-
-Other labextensions (built into JupyterLab)
-   app dir: /venv/share/jupyter/lab
-        jupyterlab-sql v0.3.3 enabled  X
-
-   The following extensions may be outdated or specify dependencies that are incompatible with the current version of jupyterlab:
-        jupyterlab-sql
-
-   If you are a user, check if an update is available for these packages.
-   If you are a developer, re-run with `--verbose` flag for more details.
-
 
 
 Disabled extensions:
-    @jupyterlab/apputils-extension:sessionDialogs
-    @jupyterlab/launcher-extension (all plugins)
-```
+    @jupyterlab/completer-extension:base-service
+    @jupyterlab/fileeditor-extension:language-server
+    @jupyterlab/lsp-extension:settings
+    @jupyterlab/notebook-extension:language-server```
 
