@@ -70,4 +70,8 @@ Disabled extensions:
     @jupyterlab/fileeditor-extension:language-server
     @jupyterlab/lsp-extension:settings
     @jupyterlab/notebook-extension:language-server```
+```
 
+#### See ALSO
+
+Wiki - [Jupyter Lab Developpment](https://github.com/sumalinux/dokumentasi/wiki/Home-‐-Jupyter-Lab-Developpement)
