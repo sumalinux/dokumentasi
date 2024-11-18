@@ -9,6 +9,7 @@
 - [jupySQL](https://jupysql.ploomber.io/en/latest/quick-start.html) extension
 
 - [lsp](https://github.com/krassowski/jupyterlab-lsp) extension
+(conf: ``` /venv/etc/jupyter/jupyter_server_config.d/jupyter-lsp-jupyter-server.json ```)
 
 - [pyWidgets](https://ipywidgets.readthedocs.io/en/latest) extension
 
